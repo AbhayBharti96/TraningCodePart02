@@ -1,91 +1,56 @@
-# 🎯 Core Java Learning Journey 🚀
+# 🚀 Core Java Learning Repository
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7C600&center=true&vCenter=true&width=800&lines=Core+Java+Practice;Building+Strong+Java+Foundations;Interview+Ready+Java"/>
-</p>
-
----
-
-## 💻 Tools & Badges
-
-<p align="center">
-
-<!-- Java Badge -->
-<a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://img.shields.io/badge/💻%20JAVA-OPENJDK-orange?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=40" alt="Java Badge" />
-</a>
-
-<!-- Progress Badge -->
-<a href="https://github.com/your-username" target="_blank">
-  <img src="https://img.shields.io/badge/📈%20PROGRESS-65%25-brightgreen?style=for-the-badge&logo=git&logoColor=white&logoWidth=40" alt="Progress Badge" />
-</a>
-
-<!-- Status Badge -->
-<a href="https://github.com/your-username" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20STATUS-ACTIVELY%20LEARNING-blueviolet?style=for-the-badge&logo=github&logoColor=white&logoWidth=40" alt="Status Badge" />
-</a>
-
-</p>
-
+**Author:** Abhay Bharti  
+**Degree:** B.Tech – Information Technology  
+**Focus:** Core Java, OOPs, Java 8, Collections, Streams, Multithreading  
 
 ---
 
-## 🏁 Progress Timeline
+## 📌 Repository Overview
 
-### 🎯 Visual Timeline of Progress
+This repository contains **topic-wise Core Java practice**, structured for:
+- Interview preparation  
+- Concept clarity  
+- Hands-on coding  
+- Daily learning tracking  
 
-| Topic | Status |
-|-------|--------|
-| Comparator & Comparable Interface | 🟢 Completed |
-| Exception Handling | 🟢 Completed |
-| Generics | 🟢 Completed |
-| MI Exam OOPs | 🟢 Completed |
-| Object Classes | 🟢 Completed |
-| StringBuffer | 🟢 Completed |
-| String Methods | 🟢 Completed |
-| stringPracticeBasic | 🟢 Completed |
-| stringPracticeIntermediate | 🟢 Completed |
-| stringbufferandstringbuilder | 🟢 Completed |
-| filehandlingbasics | 🟢 Completed |
-| FileHandling | 🟢 Completed |
-| streamsFundamentals | 🟢 Completed |
-| streamsPractice | 🟢 Completed |
-| StreamOperationsTerminal | 🟢 Completed |
-| IntermediateCode | 🟢 Completed |
-| ImpCodes | 🟢 Completed |
-| RemainCodes | 🟢 Completed |
-| Advanced Stream Operations | 🔵 In Progress |
-| Lambda Expressions | 🔵 In Progress |
-| Functional Interfaces | 🔵 In Progress |
-| Multithreading | ⚪ Pending |
-| Collections Framework (Advanced) | ⚪ Pending |
-| JVM Internals | ⚪ Pending |
-| Design Patterns | ⚪ Pending |
+Each topic folder contains:
+✔ Java programs  
+✔ Scenario-based examples  
+✔ A dedicated README explaining the topic  
 
-🟢 **Completed Topics**  
-🔵 **In Progress**  
-⚪ **Pending**
+---
 
-## Visual Progress Bar
-<p align="center">
-  <b>Progress: 65%</b>  
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&width=600&lines=🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨" alt="Progress Bar" />
-</p>
+## 🗂️ Learning Timeline & Topics
 
-## 🧭 Learning Roadmap
+| Topic | Description | Progress |
+|------|------------|----------|
+| [ArrayList Collection of Objects](./src/ArrayListCollectionOfList) | Using ArrayList with custom objects and nested collections | ✅ Completed |
+| [ArrayList Practices](./src/ArrayListPractices) | Basic to intermediate ArrayList operations and problems | ✅ Completed |
+| [Comparator & Comparable](./src/ComparatorAndComparableInterface) | Custom sorting using Comparable & Comparator | ✅ Completed |
+| [Searching Operations](./src/SearchingOps) | Linear, binary search and object searching | ✅ Completed |
+| [Streams Fundamentals](./src/streamsFundamentals) | Java 8 Stream basics, filter, map, collect | 🟡 In Progress |
+| [Streams Practice](./src/streamsPractice) | Terminal operations and real-world stream usage | 🟡 In Progress |
+| [Multithreading](./src/multiThreading) | Thread lifecycle, synchronization, concurrency basics | 🔴 Planned |
+| [Generics](./src/Generics) | Type safety and generic classes/methods | 🔴 Planned |
+| [Exception Handling](./src/ExceptionHandling) | Checked, unchecked, custom exceptions | 🔴 Planned |
+| [File Handling](./src/filehandlingbasics) | File read/write using Java IO | 🔴 Planned |
+| [String Basics](./src/stringPracticeBasic) | String methods and manipulation | ✅ Completed |
+| [String Intermediate](./src/stringPracticeInterMediate) | StringBuilder, StringBuffer, advanced problems | ✅ Completed |
 
-```mermaid
-graph TD
-    A[Core Java Basics] --> B[Object Oriented Programming]
-    B --> C[Exception & File Handling]
-    C --> D[Java 8 Features]
-    D --> E[Collections & Generics]
-    E --> F[Multithreading & Concurrency]
+---
 
-    style A fill:#4caf50,stroke:#333,stroke-width:2px
-    style B fill:#4caf50,stroke:#333,stroke-width:2px
-    style C fill:#4caf50,stroke:#333,stroke-width:2px
-    style D fill:#fb8c00,stroke:#333,stroke-width:2px
-    style E fill:#f44336,stroke:#333,stroke-width:2px
-    style F fill:#f44336,stroke:#333,stroke-width:2px
+## 🧭 How to Navigate
+
+1. Click any **topic name**  
+2. Folder opens with **topic-specific README**
+3. Explore Java files inside  
+
+---
+
+### ⭐ Goal
+Build **strong Core Java fundamentals** with structured practice.
+
+---
+
+👨‍💻 **Abhay Bharti**
