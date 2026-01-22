@@ -20,7 +20,7 @@ Each folder represents **one focused topic**, containing:
 
 | Topic | Description | Status |
 |------|------------|--------|
-| [Advanced OOPs](./src/AdvancedOOPs) | Advanced inheritance, abstraction & design concepts | 🟡 In Progress |
+| [Advanced OOPs](./src/M1ExamOOPs) | Advanced inheritance, abstraction & design concepts | 🟡 In Progress |
 | [ArrayList Collection of List](./src/ArrayListCollectionOfList) | Nested collections & custom objects | ✅ Completed |
 | [Comparator & Comparable](./src/ComparatorAndComparableInterface) | Custom object sorting | ✅ Completed |
 | [Exception Handling](./src/ExceptionHandling) | Checked, unchecked & custom exceptions | ✅ Completed |
