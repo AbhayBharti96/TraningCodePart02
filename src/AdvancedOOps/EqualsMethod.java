@@ -1,4 +1,4 @@
-package M1ExamOOps;
+package AdvancedOOps;
 
 class A {
     int x;

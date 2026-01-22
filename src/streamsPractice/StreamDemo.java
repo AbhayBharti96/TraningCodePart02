@@ -14,7 +14,7 @@ import java.util.stream.Stream;
  * embrace functional programming
  * Enable easy parallelism
  * How to Use Stream ?
- * Source -> InterOperation&Terminal Opeartion -> Output
+ * Source -> InterOperation -> Terminal Opeartion -> Output
  */
 
 

@@ -1,4 +1,4 @@
-package streamsPractice;
+ package streamsPractice;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -29,7 +29,7 @@ public class IntermediateOperations {
 		Stream<String>sortedStream =l.stream().sorted();
 		Stream<String>sortedStreamUsingComparator = l.stream().sorted((a,b)->a.length()-b.length());
 		System.out.println(sortedStreamUsingComparator.collect(Collectors.toList()));
-		//Dsitinct
+		//Distinct
 		Stream<String>dis = l.stream().filter(x->x.startsWith("A")).distinct();
 		System.out.println("Distinct Startswith A: "+dis.collect(Collectors.toList()));
 		//Limit
